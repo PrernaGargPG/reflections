@@ -1,0 +1,22 @@
+Q 1. What happens when you initialize a repository? Why do you need to do it?
+
+Ans. It makes the file of that directory into a repository. So that we could track it.
+
+
+Q 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Ans. It doesnt really stores anything. 
+
+
+Q 3. How can you use the staging area to make sure you have one commit per logical change?
+
+Ans. Just add any change in the file to the staging area per logical change and then commit them before adding another file.
+
+
+Q 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Ans. For example if I need to make a program for a different language user group we can make another branch.
+
+Q 5. How do the diagrams help you visualize the branch structure?
+
+Ans. They show us the whole branch structure in the form of easy to understand simple lines and dots.  
