@@ -17,6 +17,17 @@ Q 4. What are some situations when branches would be helpful in keeping your his
 
 Ans. For example if I need to make a program for a different language user group we can make another branch.
 
+
 Q 5. How do the diagrams help you visualize the branch structure?
 
 Ans. They show us the whole branch structure in the form of easy to understand simple lines and dots.  
+
+
+Q 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Ans. It merges all the changes in the files in the two branches. It is clean and easier to understand. 
+
+
+Q 7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Ans. Automatic merging doesn't requires any effort from the user but it can produce some unexpected results like some code that doesn't even compile. Also merging manually gives the user the independency to include whatever changes he desires in the final branch.
