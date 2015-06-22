@@ -1,6 +1,6 @@
 Q 1. What happens when you initialize a repository? Why do you need to do it?
 
-Ans. It makes the file of that directory into a repository. So that we could track it.
+Ans. A new git repository is created. A hidden folder named .git is created which contains the required files for version history.
 
 
 Q 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
