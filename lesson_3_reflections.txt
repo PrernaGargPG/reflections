@@ -21,3 +21,8 @@ Q 5. How would you collaborate without using Git or GitHub? What would be easier
 
 Ans. I can collaborate using Dropbox, e - mail, or any other online service. It would be harder in the sense that I wont be able to keep track 
      of the changes made by other contributors or view the commit history like what changes were made or when they were made.
+
+Q 6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Ans. When I want to add or test a new feature or make some big changes in the code that could break it. It helps in always having a working
+     code without having to worry about its breaking. I can freely change the code by creating new branches.
